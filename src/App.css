@@ -1,0 +1,631 @@
+
+html,
+body {
+  width:fit-content;
+  height: fit-content;
+  margin:0%;
+  padding: 0%;
+}
+.app1{
+  width:100%;
+  height:100%;
+  background-color: #ebecec;
+  margin:0%;
+  padding: 0%;
+}
+.app2{
+  width:100%;
+  height:100vh;
+  background-color: #ebecec;
+  margin:0%;
+  padding: 0%;
+}
+.app3{
+  width:1263px;
+  height:fit-content;
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  background-color: rgb(253, 253, 253);
+  margin:0%;
+  padding: 0%;
+}
+.house{
+  width:100%;
+  height: 100%;
+  margin:0%;
+  padding: 0%;
+}
+.inner{
+  display: flex;
+  justify-content: space-between;
+  height:25px;
+  width:1263px;
+  background-color: #000000;
+  margin:0%;
+  padding: 0%;
+}
+.inner2{
+  display: flex;
+  justify-content: space-between;
+  height:25px;
+  width:1280px;
+  background-color: #000000;
+  margin:0%;
+  padding: 0%;
+}
+.inner img{
+  width:200px;
+}
+.inner a{
+  margin-top:3px;
+  color:rgb(220, 221, 221);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: none;
+}
+.inner2 img{
+  width:200px;
+}
+.inner2 a{
+  margin-top:3px;
+  color:rgb(220, 221, 221);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: none;
+}
+a img{
+  height:20px;
+  margin-top:0px;
+  color:rgb(220, 221, 221);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: none;
+}
+.centerr{
+  width: 880px;
+  height:600px;
+  background-color: rgb(252, 253, 249);
+  margin-left: 190px;
+  margin-top: 20px;
+  padding-top:25px;
+}
+.liblue{
+  width:840px;
+  height:125px;
+  margin-left:20px;
+  margin-bottom: 0%;
+  background-color: rgba(18, 18, 82, 0.932);
+  padding-top: 0%;
+}
+.liblue img{
+margin-left:180px;
+}
+.rim1{
+  margin-top:20px;
+  margin-left:20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
+a{
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
+.rim1 .cors0{
+  color: #000000;
+  margin-left:4px;
+  margin-right:4px;
+}
+.rim1 .cors{
+  font-size: 15px;
+  text-decoration: underline;
+  margin-left:4px;
+  margin-right:4px;
+}
+.bord{
+  width: 840px;
+  height: 380px;
+  margin-top:20px;
+  border: 1px solid black;
+  margin-left: 20px;
+}
+.bord p{
+  margin-left: 250px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:20px;
+  font-weight: 700;
+  padding-top:10px;
+  margin-bottom: 0%;
+  color: rgb(137, 50, 50);
+}
+.centerr2{
+  width: 880px;
+  height:450px;
+  background-color: rgb(252, 253, 249);
+  margin-left: 190px;
+  margin-top: 20px;
+  padding-top:25px;
+}
+.bord1{
+  width: 840px;
+  height: 220px;
+  margin-top:20px;
+  border: 1px solid black;
+  margin-left: 20px;
+  padding: 0%;
+}
+.bord1 p{
+  margin-left: 260px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:18px;
+  font-weight: 700;
+  padding: 0%;
+  padding-top:1px;
+  margin-bottom: 0%;
+  text-decoration: underline;
+  color: rgb(0, 0, 0);
+}
+.bord2{
+  margin-left:20px;
+  padding: 0%;
+}
+.bord2 p{
+  margin-left: 0%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:14px;
+  padding: 0%;
+  padding-top:0px;
+  margin-bottom: 30px;
+  font-weight: 100;
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+.bord2 .bors{
+  margin-left: 0%;
+  font-size: 15px;
+  text-decoration: underline;
+  margin-left:4px;
+  margin-right:4px;
+  color: blue;
+  padding: 0%;
+}
+.liblue2{
+  width: 800px;
+  height: 143px;
+  background-color: rgb(245, 244, 225);
+  margin-top:3px;
+  margin-left:20px;
+}
+.birg2{
+  margin: 0%;
+  padding: 0%;
+}
+.birg2 p{
+  margin-left: 370px;
+  margin-top: 0%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:15px;
+  font-weight: 700;
+  color: #000000;
+}
+.birg3{
+  margin: 0%;
+  padding: 0%;
+}
+.birg3 img{
+  width: 90px;
+  height:90px;
+  margin: 0%;
+  margin-bottom: 0%
+}
+.birg4{
+  margin: 0%;
+  padding: 0%;
+}
+.birg4 p{
+  margin-left: 170px;
+  margin-top: 0%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:15px;
+  font-weight: 700;
+  color: #000000;
+  padding:0%;
+}
+.forms{
+  margin: 0%;
+  padding: 0%;
+}
+.forms1{
+  margin: 0%;
+  margin-top:20px;
+  padding: 0%;
+}
+.forms1 label{
+  margin-left:380px;
+  margin-top:10px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:15px;
+  font-weight: 700;
+}
+.forms3{
+  margin: 0%;
+  padding: 0%;
+}
+.forms0 input{
+  width:380px;
+  height:15px;
+  margin-left:225px;
+}
+.forms3{
+  margin:0%;
+  padding: 0%;
+}
+.forms3 label{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:14px;
+  margin-left: 180px;
+}
+
+.form2{
+  margin: 0%;
+  padding: 0%;
+}
+.forms2 button{
+  margin-top:25px;
+  margin-left:410px;
+}
+.centerr1{
+  width: 880px;
+  height:28px;
+  margin-left: 190px;
+  padding-top:10px;
+  margin-top: 0px;
+  background-color: rgb(8, 8, 8);
+}
+.centerr1 p{
+  margin-left: 340px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:10px;
+  color: white;
+}
+.up2 button{
+  border: none;
+  background-color: rgb(255, 255, 255);
+}
+.dup{
+  margin:0px;
+  padding: 0%;
+  width:800px;
+  margin-top: 25px;
+ justify-items: center;
+ justify-content: center;
+ align-items: center;
+ align-self: center;
+  padding: 0%;
+}
+.bore{
+  width: 750px;
+  height:1050px;
+  border:3px solid black;
+  margin-left:10px;
+}
+.bore img{
+  width: 450px;
+  height:140px;
+  margin-top: 100px;
+  margin-left:165px;
+  margin-bottom: 30px;
+}
+.bore p{
+  font-size:20px;
+  margin-left:70px;
+  margin-bottom:25px;
+}
+.borez{
+  width: 750px;;
+    margin: 0%;
+    padding: 0%;
+}
+.bores{
+  margin: 0%;
+  padding: 0%;
+  height:130px;
+}
+.bores img{
+width: 300px;
+height:120px;
+margin-left:390px;
+margin-top: 50px;
+margin-bottom: 0%;
+padding: 0%;
+}
+.bored{
+  margin: 0%;
+  padding: 0%;
+  height:180px;
+}
+.bored img{
+width: 750px;
+height:200px;
+margin-left:0px;
+margin-top: 0px;
+padding: 0%;
+}
+.borer{
+  margin: 0%;
+  border: 1px solid black;
+  width: 500px;
+  height:120px;
+  margin-left:200px;
+  margin-top: 0px;
+  margin-bottom: 0%;
+}
+.borer img{
+  width: 490px;
+  height:120px;
+  margin: 0%;
+}
+.app3 button{
+  border: 1px solid rgba(11, 11, 15, 0.932);
+  width: 50px;
+  height:45px;
+  background-color: rgba(18, 18, 82, 0.932);
+  margin-top:  50px;
+  margin-left: 0px;
+  margin-right:100px;
+  border-radius: 9999px;
+  color: white;
+}
+@media(max-width:700px){
+  .app1{
+    width: fit-content;
+    height:100vh;
+    margin:0%;
+    padding: 0%;
+  }
+  
+  .house{
+    width:390;
+    height:100%;
+    margin:0%;
+    padding: 0%;
+    width: 0%;
+  }
+  .inner{
+    width:200px;
+    height:15px;
+    margin:0%;
+    padding: 0%;
+  }
+  a img{
+    width:150px;
+    height:14px;
+    margin:0%;
+    padding: 0%;
+  }
+  .inner .cors7{
+    display: none;
+  }
+  .centerr{
+    width: 390px;
+    height:280px;
+    margin: 0%;
+    margin-top:10px;
+    padding: 0%;
+    padding-top:10px;
+  }
+  .liblue{
+    width: 360px;
+    height:60px;
+    margin-left:15px;
+  }
+  .liblue img{
+    width: 220px;
+    height:58px;
+    margin-left:75px;
+  }
+  .rim1{
+    margin-top: 0%;
+    margin-left:15px;
+  }
+  .rim1 .cors{
+    font-size:7px;
+    text-decoration: underline;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+  .rim1 .cors0{
+    font-size:7px;
+    margin-left: 1%;
+    margin-right: 1%;
+  }
+  .bord{
+    width:360px;
+    height:180px;
+    margin-top: 5px;
+    margin-left:15px;
+    padding-top: 0%;
+    padding-bottom: 0%;
+  }
+  .bord p{
+    font-size:10px;
+    margin-left: 100px;
+    font-weight: 700;
+    margin-top:1px;
+    margin-bottom: 0%;
+  }
+  .liblue2{
+    width: 340px;
+    height: 60px;
+    margin-left:10px;
+    margin-bottom: 0%;
+    padding: 0%;
+  }
+  .birg2{
+    margin:0%;
+    padding:0%;
+  }
+  .birg2 p{
+    margin-top: 1px;
+    padding:0%;
+    margin-left:155px;
+    margin-bottom: 0%;
+    font-size:8px;
+  }
+  .birg3{
+    margin: 0%;
+    padding: 0%;
+  }
+  .birg3 img{
+    width:38px;
+    height:38px;
+    margin: 0%;
+    padding: 0%;
+    margin-bottom: 0%;
+  }
+  .birg4{
+    margin: 0%;
+    padding: 0%;
+  }
+  .birg4 p{
+    font-size:8px;
+    margin-top: 0%;
+    margin-left: 60px;
+    margin-bottom: 0%;
+    padding: 0%;
+  }
+  .forms{
+    margin: 0%;
+    padding: 0%;
+  }
+  .forms1{
+    margin: 0%;
+    margin-top:1px;
+    padding: 0%;
+  }
+  .forms1 label{
+    font-size:8px;
+    margin-top: 0px;
+    margin-left: 150px;
+    margin-bottom: 0%;
+  }
+  .forms0{
+    margin: 0%;
+    padding: 0%;
+    height:3px;
+  }
+  .forms0 input{
+    width:180px;
+    height:5px;
+    margin-left:90px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+  }
+  .forms3{
+    margin: 0%;
+    padding: 0%;
+    margin-top: 5px;
+  }
+  .forms3 label{
+    margin-left: 65px;
+    font-size:7px;
+  }
+  .forms2{
+    margin: 0%;
+    padding-top: 0%;
+    margin-top:0px;
+  }
+  .forms2 button{
+    width:25px;
+    height:10px;
+    font-size:6px;
+    padding-top: 0%;
+    padding-left: 0%;
+    padding-right: 0%;
+    margin-left:170px;
+    margin-top:0px;
+  }
+  .centerr1{
+    width: 390px;
+    height:20px;
+    margin:0%;
+    padding: 0%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+  }
+  .centerr1 p{
+    padding-top:10px;
+    margin-left: 155px;
+    margin-top: 0%;
+    font-size:4px;
+  }
+  .app2{
+    width: fit-content;
+    height:100vh;
+    margin:0%;
+    padding: 0%;
+  }
+  .inner2{
+    width:200px;
+    height:15px;
+    margin:0%;
+    padding: 0%;
+  }
+  .inner2 .cors7{
+    display: none;
+  }
+  .centerr2{
+    width: 390px;
+    height:200px;
+    margin: 0%;
+    margin-top:10px;
+    padding: 0%;
+    padding-top:10px;
+  }
+  .bord1{
+    width:360px;
+    height:100px;
+    margin-top: 5px;
+    margin-left:15px;
+    padding-top: 0%;
+    padding-bottom: 0%;
+  }
+  .bord1 p{
+    font-size:10px;
+    margin-left: 100px;
+    font-weight: 700;
+    margin-top:1px;
+    margin-bottom: 0%;
+  }
+  .bord2{
+    font-size:8px;
+    margin-left: 10px;
+    margin-top:10px;
+    margin-bottom: 0%;
+  }
+  .bord2 p{
+    font-size:8px;
+    margin-left: 0px;
+    font-weight: 100;
+    margin-top:0px;
+    margin-bottom: 20px;
+  }
+  .bord2 .bors{
+    font-size:8px;
+    margin-left: 0px;
+    font-weight: 100;
+  }
+  .dup{
+    width:200px;
+  }
+  .dup2{
+    margin: 0%;
+    padding: 0%;
+    border: 1px solid white;
+  }
+  .app3 button{
+    margin-top:  1150px;
+    margin-left: 450px;
+    margin-right:100px;
+    border-radius: 9999px;
+    color: white;
+  }
+}
